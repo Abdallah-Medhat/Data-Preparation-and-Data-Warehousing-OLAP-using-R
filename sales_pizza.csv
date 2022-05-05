@@ -1,0 +1,701 @@
+"","month","year","loc","cheese","size","dough","topping","Quantity","profit"
+"1",1,2018,"Ontario"," cheddar","large","whole wheat thin"," pepper",1,19
+"2",1,2018,"California"," Swiss","large","white regular"," onions",1,29
+"3",1,2018,"new York","Mozzarella"," medium ","white regular","tomatoes",1,19
+"4",1,2018,"Washington"," Swiss"," xlarge","whole wheat thin"," pepper",1,26
+"5",1,2018,"California"," cheddar","large","stuffed crust","pepperoni",2,52
+"6",1,2018,"new York","Mozzarella","personal","white regular","tomatoes",1,19
+"7",1,2018,"Quebec","Mozzarella"," xlarge","whole wheat thin"," pepper",1,26
+"8",1,2018,"Washington"," Swiss","large","whole wheat thin"," pepper",1,26
+"9",1,2018,"new York"," Swiss","small","whole wheat thin","pepperoni",1,26
+"10",1,2018,"new York","Mozzarella"," medium ","stuffed crust"," pepper",1,26
+"11",1,2018,"California"," cheddar","personal","whole wheat thin","pepperoni",1,19
+"12",1,2018,"Quebec","Mozzarella","large","white regular","pepperoni",1,26
+"13",1,2018,"new York","Mozzarella"," medium ","whole wheat thin","tomatoes",1,29
+"14",1,2018,"new York"," Swiss"," xlarge","stuffed crust","pepperoni",2,58
+"15",1,2018,"California"," cheddar","personal","white regular","pepperoni",1,26
+"16",1,2018,"Quebec"," cheddar"," xlarge","white regular","pepperoni",2,52
+"17",1,2018,"Quebec","Mozzarella"," medium ","stuffed crust","tomatoes",2,52
+"18",1,2018,"Ontario"," Swiss","small","stuffed crust","tomatoes",1,26
+"19",1,2018,"Washington"," cheddar"," xlarge","whole wheat thin","tomatoes",1,26
+"20",1,2018,"new York","Mozzarella"," medium ","whole wheat thin"," pepper",2,52
+"21",1,2018,"California","Mozzarella"," medium ","whole wheat thin","pepperoni",1,26
+"22",1,2018,"California"," cheddar"," xlarge","stuffed crust"," pepper",2,38
+"23",1,2018,"Quebec"," cheddar","large","whole wheat thin"," pepper",1,29
+"24",1,2018,"Ontario"," Swiss","large","stuffed crust"," onions",2,52
+"25",1,2018,"California"," cheddar"," medium ","stuffed crust"," onions",1,29
+"26",1,2018,"new York","Mozzarella","large","stuffed crust","tomatoes",1,29
+"27",1,2018,"California"," cheddar","personal","stuffed crust"," pepper",1,19
+"28",1,2018,"Ontario"," cheddar"," medium ","stuffed crust","pepperoni",1,19
+"29",2,2018,"new York"," cheddar"," xlarge","stuffed crust","pepperoni",1,19
+"30",2,2018,"Quebec","Mozzarella","large","stuffed crust"," pepper",1,29
+"31",2,2018,"California"," Swiss","large","stuffed crust"," onions",2,52
+"32",2,2018,"Washington"," Swiss"," medium ","whole wheat thin"," pepper",1,26
+"33",2,2018,"Washington"," cheddar"," xlarge","white regular"," pepper",1,26
+"34",2,2018,"Quebec"," cheddar","large","stuffed crust","pepperoni",2,38
+"35",2,2018,"new York"," cheddar","small","white regular","pepperoni",1,29
+"36",2,2018,"new York"," cheddar","personal","stuffed crust"," pepper",1,26
+"37",2,2018,"Quebec"," Swiss","large","stuffed crust","tomatoes",1,26
+"38",2,2018,"new York"," Swiss","personal","stuffed crust","pepperoni",1,19
+"39",2,2018,"Washington"," Swiss"," medium ","stuffed crust","tomatoes",2,52
+"40",2,2018,"Ontario"," cheddar","small","stuffed crust","pepperoni",1,26
+"41",2,2018,"new York"," cheddar"," xlarge","stuffed crust","pepperoni",1,26
+"42",2,2018,"Quebec"," cheddar","small","whole wheat thin"," onions",1,26
+"43",2,2018,"new York"," cheddar"," xlarge","white regular"," pepper",1,26
+"44",2,2018,"Ontario"," Swiss","large","whole wheat thin"," pepper",1,26
+"45",2,2018,"new York"," cheddar"," medium ","whole wheat thin","tomatoes",1,26
+"46",2,2018,"Quebec"," cheddar","small","white regular"," pepper",2,52
+"47",2,2018,"Ontario","Mozzarella","small","whole wheat thin"," pepper",1,26
+"48",2,2018,"California","Mozzarella"," xlarge","whole wheat thin","pepperoni",1,19
+"49",2,2018,"Washington","Mozzarella"," medium ","stuffed crust"," pepper",1,29
+"50",2,2018,"Washington","Mozzarella"," xlarge","stuffed crust"," pepper",1,26
+"51",2,2018,"Washington"," cheddar"," xlarge","stuffed crust","tomatoes",1,26
+"52",2,2018,"Quebec","Mozzarella"," medium ","white regular","pepperoni",1,26
+"53",2,2018,"Ontario","Mozzarella","large","stuffed crust"," pepper",1,19
+"54",2,2018,"new York"," cheddar"," xlarge","white regular","tomatoes",2,58
+"55",2,2018,"California","Mozzarella","small","whole wheat thin","tomatoes",1,19
+"56",2,2018,"Ontario"," Swiss"," xlarge","whole wheat thin"," pepper",2,52
+"57",2,2018,"Ontario"," cheddar"," xlarge","white regular","tomatoes",2,38
+"58",2,2018,"California"," Swiss"," medium ","white regular","pepperoni",2,52
+"59",2,2018,"new York"," Swiss"," xlarge","whole wheat thin","pepperoni",1,29
+"60",2,2018,"Quebec"," cheddar"," xlarge","whole wheat thin"," onions",1,26
+"61",3,2018,"Washington","Mozzarella","large","whole wheat thin","tomatoes",2,52
+"62",3,2018,"Quebec"," Swiss"," xlarge","white regular","pepperoni",1,26
+"63",3,2018,"Ontario","Mozzarella","personal","white regular"," pepper",1,26
+"64",3,2018,"new York","Mozzarella"," medium ","whole wheat thin"," pepper",1,26
+"65",3,2018,"Quebec"," Swiss"," medium ","whole wheat thin","pepperoni",1,19
+"66",3,2018,"Ontario"," cheddar","small","stuffed crust"," pepper",1,26
+"67",3,2018,"new York"," cheddar"," medium ","whole wheat thin","tomatoes",2,52
+"68",3,2018,"Quebec"," Swiss"," xlarge","whole wheat thin"," pepper",1,26
+"69",3,2018,"Quebec"," cheddar"," xlarge","whole wheat thin","pepperoni",1,29
+"70",3,2018,"California"," Swiss","personal","whole wheat thin","pepperoni",1,26
+"71",3,2018,"new York"," cheddar","large","white regular"," onions",1,26
+"72",3,2018,"Ontario"," cheddar"," xlarge","white regular","pepperoni",1,26
+"73",3,2018,"California","Mozzarella"," xlarge","white regular","pepperoni",1,26
+"74",3,2018,"California"," cheddar","large","whole wheat thin"," onions",1,29
+"75",3,2018,"new York"," Swiss"," medium ","white regular","pepperoni",2,52
+"76",3,2018,"new York","Mozzarella","large","whole wheat thin"," pepper",1,19
+"77",3,2018,"new York","Mozzarella","personal","white regular"," pepper",2,52
+"78",3,2018,"new York"," cheddar"," xlarge","whole wheat thin","pepperoni",1,29
+"79",3,2018,"new York","Mozzarella"," xlarge","stuffed crust","pepperoni",1,26
+"80",3,2018,"new York","Mozzarella"," xlarge","whole wheat thin","tomatoes",1,26
+"81",3,2018,"California"," cheddar","personal","stuffed crust","tomatoes",1,29
+"82",3,2018,"Washington"," Swiss"," xlarge","white regular"," onions",1,19
+"83",3,2018,"new York"," cheddar"," xlarge","whole wheat thin"," onions",2,52
+"84",4,2018,"California"," cheddar","small","whole wheat thin"," onions",1,26
+"85",4,2018,"Quebec"," Swiss","large","stuffed crust"," onions",1,26
+"86",4,2018,"California"," cheddar"," xlarge","whole wheat thin","pepperoni",1,29
+"87",4,2018,"Ontario"," cheddar"," xlarge","whole wheat thin"," onions",1,26
+"88",4,2018,"Quebec"," cheddar"," medium ","stuffed crust","tomatoes",1,19
+"89",4,2018,"new York"," cheddar"," xlarge","stuffed crust"," onions",1,29
+"90",4,2018,"Ontario"," Swiss","small","stuffed crust","tomatoes",1,19
+"91",4,2018,"California"," Swiss","large","white regular"," pepper",1,19
+"92",4,2018,"new York","Mozzarella","large","stuffed crust","pepperoni",2,52
+"93",4,2018,"Quebec"," cheddar","large","white regular","pepperoni",1,26
+"94",4,2018,"California"," Swiss"," xlarge","whole wheat thin"," pepper",1,26
+"95",4,2018,"new York"," cheddar"," xlarge","whole wheat thin"," pepper",1,29
+"96",4,2018,"California","Mozzarella","small","white regular","pepperoni",1,26
+"97",4,2018,"California"," Swiss","large","stuffed crust","tomatoes",1,26
+"98",4,2018,"Ontario","Mozzarella","personal","whole wheat thin","tomatoes",2,52
+"99",4,2018,"new York"," cheddar"," xlarge","stuffed crust"," pepper",1,26
+"100",4,2018,"new York"," cheddar","personal","white regular"," onions",1,29
+"101",4,2018,"new York"," cheddar"," xlarge","white regular","pepperoni",1,19
+"102",4,2018,"California"," cheddar","large","whole wheat thin"," pepper",2,52
+"103",4,2018,"California"," Swiss"," medium ","stuffed crust","pepperoni",1,26
+"104",4,2018,"new York","Mozzarella","personal","stuffed crust"," onions",1,26
+"105",4,2018,"Washington"," Swiss","personal","stuffed crust","pepperoni",1,26
+"106",4,2018,"new York","Mozzarella"," medium ","stuffed crust"," pepper",1,26
+"107",4,2018,"California","Mozzarella","small","white regular"," onions",2,52
+"108",4,2018,"Washington"," cheddar","personal","stuffed crust"," onions",1,26
+"109",4,2018,"Washington","Mozzarella","large","white regular","tomatoes",1,26
+"110",4,2018,"Quebec"," cheddar","small","stuffed crust"," pepper",2,38
+"111",4,2018,"new York"," Swiss","large","whole wheat thin","tomatoes",2,52
+"112",5,2018,"new York","Mozzarella","large","stuffed crust","tomatoes",2,38
+"113",5,2018,"new York"," Swiss","large","stuffed crust","tomatoes",2,52
+"114",5,2018,"Ontario"," Swiss","small","whole wheat thin","tomatoes",1,19
+"115",5,2018,"new York","Mozzarella"," xlarge","whole wheat thin"," onions",1,26
+"116",5,2018,"California","Mozzarella","personal","white regular","pepperoni",1,26
+"117",5,2018,"new York","Mozzarella"," xlarge","whole wheat thin"," pepper",2,52
+"118",5,2018,"California"," cheddar"," xlarge","whole wheat thin"," pepper",1,26
+"119",5,2018,"California"," cheddar","personal","whole wheat thin","tomatoes",1,29
+"120",5,2018,"new York"," Swiss"," medium ","stuffed crust"," pepper",1,29
+"121",5,2018,"new York"," cheddar"," medium ","whole wheat thin","pepperoni",1,26
+"122",5,2018,"Washington"," cheddar","large","whole wheat thin"," onions",1,26
+"123",5,2018,"Ontario"," cheddar"," medium ","whole wheat thin"," pepper",1,19
+"124",5,2018,"Washington"," Swiss","personal","whole wheat thin"," onions",1,26
+"125",5,2018,"California"," cheddar"," medium ","stuffed crust"," pepper",1,19
+"126",5,2018,"Washington"," cheddar","large","white regular","pepperoni",1,29
+"127",5,2018,"Ontario"," Swiss","personal","whole wheat thin","tomatoes",1,26
+"128",5,2018,"Ontario"," cheddar"," medium ","white regular"," onions",1,19
+"129",5,2018,"Washington"," Swiss","small","whole wheat thin"," onions",1,26
+"130",5,2018,"California","Mozzarella","personal","whole wheat thin","pepperoni",1,19
+"131",5,2018,"new York"," cheddar","large","white regular","tomatoes",1,19
+"132",5,2018,"Quebec"," Swiss","small","white regular"," pepper",1,26
+"133",5,2018,"Washington"," cheddar"," xlarge","white regular"," pepper",1,26
+"134",5,2018,"Ontario"," cheddar"," xlarge","stuffed crust"," pepper",1,26
+"135",5,2018,"California"," Swiss"," xlarge","white regular"," onions",1,26
+"136",5,2018,"new York"," cheddar","large","whole wheat thin","pepperoni",1,29
+"137",5,2018,"new York","Mozzarella","large","white regular","pepperoni",1,26
+"138",5,2018,"Washington"," Swiss"," xlarge","stuffed crust"," onions",1,26
+"139",5,2018,"Ontario"," Swiss","small","stuffed crust","tomatoes",1,19
+"140",6,2018,"new York","Mozzarella","large","whole wheat thin","pepperoni",1,29
+"141",6,2018,"California"," cheddar"," medium ","white regular"," pepper",1,26
+"142",6,2018,"Washington"," Swiss","small","whole wheat thin"," onions",1,19
+"143",6,2018,"California"," cheddar"," medium ","white regular"," pepper",1,29
+"144",6,2018,"Ontario","Mozzarella"," xlarge","white regular"," pepper",1,26
+"145",6,2018,"new York"," cheddar","large","stuffed crust"," pepper",1,29
+"146",6,2018,"new York"," Swiss"," medium ","white regular"," onions",1,26
+"147",6,2018,"new York"," cheddar"," medium ","white regular"," onions",1,29
+"148",6,2018,"new York"," cheddar","personal","stuffed crust"," pepper",1,29
+"149",6,2018,"new York"," cheddar"," xlarge","whole wheat thin"," onions",1,26
+"150",6,2018,"new York"," cheddar","large","stuffed crust","tomatoes",1,26
+"151",6,2018,"California"," Swiss"," xlarge","white regular"," pepper",2,52
+"152",6,2018,"California","Mozzarella","large","whole wheat thin"," onions",1,26
+"153",6,2018,"new York"," Swiss","personal","white regular","tomatoes",1,26
+"154",6,2018,"new York","Mozzarella","large","white regular"," onions",1,19
+"155",6,2018,"Quebec"," Swiss","large","white regular"," onions",1,26
+"156",6,2018,"California"," Swiss"," medium ","white regular","pepperoni",1,26
+"157",6,2018,"Quebec"," Swiss","personal","white regular","pepperoni",1,26
+"158",6,2018,"Washington"," Swiss"," medium ","whole wheat thin","tomatoes",1,29
+"159",6,2018,"new York","Mozzarella","large","whole wheat thin"," onions",1,26
+"160",6,2018,"Ontario"," cheddar","personal","stuffed crust","tomatoes",1,19
+"161",6,2018,"new York"," Swiss","personal","white regular","tomatoes",2,52
+"162",7,2018,"Ontario"," Swiss"," xlarge","whole wheat thin"," pepper",2,52
+"163",7,2018,"Washington","Mozzarella"," xlarge","whole wheat thin"," onions",1,26
+"164",7,2018,"California"," cheddar"," xlarge","stuffed crust","tomatoes",1,29
+"165",7,2018,"Ontario"," Swiss"," xlarge","stuffed crust"," pepper",1,29
+"166",7,2018,"Quebec","Mozzarella","large","stuffed crust","pepperoni",1,19
+"167",7,2018,"new York"," Swiss","personal","whole wheat thin"," pepper",2,52
+"168",7,2018,"California"," cheddar","large","white regular","tomatoes",1,26
+"169",7,2018,"California","Mozzarella"," medium ","white regular","pepperoni",1,26
+"170",7,2018,"California"," Swiss"," medium ","whole wheat thin"," onions",1,29
+"171",7,2018,"Washington"," Swiss","small","white regular","tomatoes",1,19
+"172",7,2018,"new York"," cheddar"," xlarge","stuffed crust","pepperoni",1,26
+"173",7,2018,"Quebec"," cheddar","large","whole wheat thin","tomatoes",1,26
+"174",7,2018,"Quebec","Mozzarella","small","stuffed crust"," pepper",2,58
+"175",7,2018,"new York"," cheddar","large","whole wheat thin"," pepper",1,26
+"176",7,2018,"California","Mozzarella","large","white regular"," onions",1,26
+"177",7,2018,"new York"," Swiss","large","white regular","tomatoes",1,19
+"178",7,2018,"new York"," Swiss"," medium ","white regular","pepperoni",2,38
+"179",7,2018,"new York"," Swiss"," xlarge","white regular"," onions",2,52
+"180",7,2018,"new York","Mozzarella"," medium ","whole wheat thin","pepperoni",1,26
+"181",7,2018,"California"," Swiss","personal","whole wheat thin","tomatoes",2,52
+"182",7,2018,"Washington","Mozzarella","small","white regular","pepperoni",2,52
+"183",7,2018,"Ontario"," Swiss","large","white regular","pepperoni",1,26
+"184",7,2018,"Washington","Mozzarella","large","stuffed crust"," onions",1,26
+"185",7,2018,"California","Mozzarella"," medium ","whole wheat thin","pepperoni",1,26
+"186",7,2018,"California"," cheddar"," xlarge","whole wheat thin"," pepper",1,26
+"187",7,2018,"Quebec"," Swiss","personal","white regular"," onions",1,26
+"188",7,2018,"new York","Mozzarella","large","stuffed crust"," onions",2,58
+"189",8,2018,"Ontario","Mozzarella","large","whole wheat thin"," onions",1,26
+"190",8,2018,"Quebec","Mozzarella","large","stuffed crust","tomatoes",2,52
+"191",8,2018,"new York"," Swiss"," medium ","white regular"," pepper",1,26
+"192",8,2018,"California","Mozzarella","large","white regular"," onions",1,19
+"193",8,2018,"Washington"," cheddar","small","stuffed crust","tomatoes",2,38
+"194",8,2018,"Washington"," Swiss"," xlarge","stuffed crust","tomatoes",1,26
+"195",8,2018,"new York","Mozzarella","large","whole wheat thin"," onions",1,26
+"196",8,2018,"Washington","Mozzarella"," xlarge","stuffed crust","pepperoni",1,26
+"197",8,2018,"Quebec"," cheddar","small","whole wheat thin","pepperoni",2,58
+"198",8,2018,"Quebec","Mozzarella"," medium ","stuffed crust"," onions",2,52
+"199",8,2018,"California"," cheddar"," xlarge","whole wheat thin"," pepper",1,26
+"200",8,2018,"Ontario","Mozzarella","large","stuffed crust"," onions",1,26
+"201",8,2018,"Quebec"," Swiss","large","whole wheat thin","pepperoni",1,19
+"202",8,2018,"new York"," Swiss"," xlarge","stuffed crust","tomatoes",1,26
+"203",8,2018,"California"," cheddar"," medium ","white regular","tomatoes",1,26
+"204",8,2018,"California"," Swiss"," medium ","white regular"," pepper",1,26
+"205",8,2018,"new York","Mozzarella","personal","whole wheat thin"," onions",1,29
+"206",8,2018,"Quebec","Mozzarella","small","stuffed crust"," pepper",2,52
+"207",8,2018,"Ontario"," cheddar"," medium ","stuffed crust","pepperoni",1,19
+"208",9,2018,"Washington"," cheddar"," xlarge","stuffed crust","pepperoni",1,26
+"209",9,2018,"Washington"," cheddar","large","white regular","tomatoes",1,26
+"210",9,2018,"new York"," Swiss","large","white regular","pepperoni",1,26
+"211",9,2018,"Ontario","Mozzarella","small","whole wheat thin","pepperoni",1,26
+"212",9,2018,"Washington"," Swiss","personal","white regular","pepperoni",1,26
+"213",9,2018,"Washington","Mozzarella"," xlarge","stuffed crust"," onions",1,26
+"214",9,2018,"Ontario"," cheddar","large","white regular"," onions",1,26
+"215",9,2018,"Quebec"," cheddar","large","whole wheat thin","pepperoni",1,19
+"216",9,2018,"Washington","Mozzarella","personal","white regular"," onions",1,26
+"217",9,2018,"new York","Mozzarella","large","stuffed crust"," pepper",1,29
+"218",9,2018,"new York","Mozzarella"," xlarge","stuffed crust","tomatoes",2,52
+"219",9,2018,"Washington","Mozzarella"," xlarge","white regular","pepperoni",2,52
+"220",9,2018,"new York"," cheddar","small","white regular"," onions",1,26
+"221",9,2018,"new York","Mozzarella"," xlarge","stuffed crust","pepperoni",1,29
+"222",9,2018,"new York","Mozzarella"," xlarge","white regular","pepperoni",1,29
+"223",9,2018,"California","Mozzarella"," xlarge","white regular"," pepper",1,29
+"224",9,2018,"Quebec"," Swiss"," xlarge","stuffed crust","tomatoes",1,26
+"225",9,2018,"Ontario"," Swiss","large","whole wheat thin"," pepper",1,26
+"226",9,2018,"California","Mozzarella","personal","stuffed crust"," onions",2,52
+"227",9,2018,"Ontario","Mozzarella","large","whole wheat thin","pepperoni",1,19
+"228",9,2018,"California","Mozzarella","small","stuffed crust"," pepper",1,29
+"229",9,2018,"California"," cheddar","small","stuffed crust","tomatoes",1,26
+"230",9,2018,"California"," Swiss"," xlarge","white regular","pepperoni",1,29
+"231",9,2018,"California"," Swiss","personal","white regular"," onions",1,26
+"232",9,2018,"Quebec"," Swiss","large","stuffed crust"," pepper",1,19
+"233",9,2018,"new York"," cheddar"," xlarge","stuffed crust"," pepper",1,26
+"234",9,2018,"new York"," cheddar","personal","white regular"," pepper",2,58
+"235",9,2018,"new York","Mozzarella"," xlarge","whole wheat thin"," onions",1,26
+"236",9,2018,"new York"," Swiss"," xlarge","stuffed crust","pepperoni",1,26
+"237",9,2018,"new York","Mozzarella"," medium ","white regular"," pepper",1,19
+"238",9,2018,"Ontario"," cheddar","small","white regular"," pepper",1,26
+"239",9,2018,"new York"," Swiss","large","stuffed crust","tomatoes",2,52
+"240",9,2018,"California"," cheddar","large","whole wheat thin"," onions",1,19
+"241",9,2018,"Quebec"," cheddar","small","stuffed crust"," onions",2,58
+"242",9,2018,"California"," Swiss"," xlarge","stuffed crust"," pepper",1,26
+"243",10,2018,"new York","Mozzarella","small","whole wheat thin","tomatoes",1,26
+"244",10,2018,"California","Mozzarella"," xlarge","white regular","tomatoes",1,26
+"245",10,2018,"Washington"," Swiss"," xlarge","stuffed crust","pepperoni",1,26
+"246",10,2018,"California"," Swiss","personal","white regular","pepperoni",1,26
+"247",10,2018,"California"," cheddar","large","white regular"," pepper",1,26
+"248",10,2018,"California"," Swiss"," xlarge","whole wheat thin","pepperoni",1,26
+"249",10,2018,"new York","Mozzarella"," medium ","white regular"," onions",2,58
+"250",10,2018,"new York","Mozzarella"," xlarge","white regular"," pepper",1,26
+"251",10,2018,"Quebec"," Swiss"," medium ","stuffed crust"," pepper",2,52
+"252",10,2018,"Washington"," cheddar"," xlarge","stuffed crust","pepperoni",1,19
+"253",10,2018,"California","Mozzarella"," medium ","whole wheat thin","pepperoni",1,29
+"254",10,2018,"Ontario","Mozzarella","large","whole wheat thin"," pepper",1,26
+"255",10,2018,"California"," Swiss"," xlarge","whole wheat thin"," onions",1,26
+"256",10,2018,"Washington"," cheddar","large","whole wheat thin","tomatoes",1,26
+"257",10,2018,"Quebec"," cheddar","large","whole wheat thin"," pepper",1,29
+"258",10,2018,"California","Mozzarella","large","whole wheat thin","tomatoes",1,26
+"259",10,2018,"Ontario","Mozzarella"," medium ","stuffed crust","pepperoni",1,29
+"260",10,2018,"Quebec"," cheddar"," medium ","stuffed crust"," onions",1,29
+"261",10,2018,"Washington"," cheddar"," xlarge","white regular","pepperoni",1,19
+"262",10,2018,"new York","Mozzarella","personal","whole wheat thin"," onions",2,52
+"263",10,2018,"new York"," Swiss","personal","white regular","tomatoes",1,26
+"264",10,2018,"Washington","Mozzarella","large","stuffed crust"," pepper",2,52
+"265",10,2018,"Quebec","Mozzarella","small","whole wheat thin"," onions",1,29
+"266",10,2018,"Ontario"," cheddar"," medium ","whole wheat thin","tomatoes",1,19
+"267",10,2018,"California"," Swiss"," xlarge","white regular","tomatoes",1,29
+"268",10,2018,"Washington","Mozzarella","personal","white regular","pepperoni",1,26
+"269",10,2018,"Washington"," cheddar"," xlarge","whole wheat thin","pepperoni",1,19
+"270",11,2018,"Washington","Mozzarella"," xlarge","stuffed crust","pepperoni",1,29
+"271",11,2018,"Washington"," Swiss","large","stuffed crust","tomatoes",1,19
+"272",11,2018,"new York"," Swiss","large","whole wheat thin","pepperoni",1,26
+"273",11,2018,"new York"," Swiss"," medium ","whole wheat thin"," pepper",1,26
+"274",11,2018,"Quebec","Mozzarella","personal","white regular","pepperoni",2,58
+"275",11,2018,"Ontario"," cheddar","personal","white regular","tomatoes",2,52
+"276",11,2018,"Ontario"," cheddar","large","white regular"," onions",1,26
+"277",11,2018,"California"," Swiss"," medium ","stuffed crust"," onions",1,26
+"278",11,2018,"California"," Swiss","large","whole wheat thin","tomatoes",1,26
+"279",11,2018,"California","Mozzarella"," xlarge","white regular","pepperoni",1,29
+"280",11,2018,"new York"," cheddar"," xlarge","white regular","tomatoes",2,52
+"281",11,2018,"Ontario","Mozzarella","large","whole wheat thin"," pepper",1,29
+"282",11,2018,"Quebec"," cheddar","small","whole wheat thin","tomatoes",1,26
+"283",11,2018,"Ontario"," Swiss","small","whole wheat thin"," onions",1,26
+"284",11,2018,"new York"," Swiss"," xlarge","white regular"," pepper",2,58
+"285",11,2018,"Ontario","Mozzarella"," medium ","stuffed crust"," pepper",2,38
+"286",11,2018,"Quebec"," Swiss"," medium ","whole wheat thin"," onions",1,26
+"287",11,2018,"Quebec"," Swiss"," xlarge","white regular"," pepper",1,26
+"288",11,2018,"Quebec"," Swiss","large","whole wheat thin","pepperoni",1,26
+"289",11,2018,"Ontario"," Swiss"," medium ","whole wheat thin"," onions",2,58
+"290",11,2018,"Washington"," Swiss"," xlarge","white regular"," onions",2,38
+"291",11,2018,"Washington"," cheddar","large","white regular"," pepper",1,29
+"292",11,2018,"Ontario","Mozzarella","large","whole wheat thin"," onions",1,26
+"293",11,2018,"Washington"," Swiss"," xlarge","stuffed crust"," onions",1,26
+"294",11,2018,"Washington"," Swiss","small","stuffed crust"," onions",1,26
+"295",11,2018,"new York"," Swiss"," xlarge","stuffed crust"," pepper",1,26
+"296",11,2018,"California"," Swiss"," medium ","stuffed crust"," onions",1,26
+"297",12,2018,"Washington"," cheddar","large","whole wheat thin"," onions",1,26
+"298",12,2018,"California"," Swiss"," medium ","stuffed crust"," pepper",1,29
+"299",12,2018,"Ontario"," Swiss"," xlarge","whole wheat thin","tomatoes",1,19
+"300",12,2018,"California"," cheddar"," xlarge","white regular"," onions",1,26
+"301",12,2018,"Ontario","Mozzarella"," xlarge","white regular"," pepper",1,19
+"302",12,2018,"Ontario"," Swiss","small","whole wheat thin","tomatoes",1,26
+"303",12,2018,"new York","Mozzarella","personal","whole wheat thin","pepperoni",1,26
+"304",12,2018,"Ontario"," cheddar"," medium ","stuffed crust","tomatoes",1,29
+"305",12,2018,"Quebec"," cheddar","large","white regular","tomatoes",1,26
+"306",12,2018,"California"," Swiss","large","stuffed crust","tomatoes",1,29
+"307",12,2018,"new York"," Swiss"," xlarge","white regular"," pepper",1,29
+"308",12,2018,"Washington"," cheddar"," medium ","stuffed crust","tomatoes",2,52
+"309",12,2018,"Ontario","Mozzarella"," medium ","white regular","tomatoes",1,26
+"310",12,2018,"Quebec"," cheddar"," xlarge","stuffed crust","pepperoni",1,26
+"311",12,2018,"California"," Swiss"," xlarge","whole wheat thin"," onions",1,26
+"312",12,2018,"California"," cheddar"," medium ","whole wheat thin","pepperoni",2,52
+"313",12,2018,"new York"," Swiss"," medium ","white regular","pepperoni",1,26
+"314",12,2018,"California"," cheddar"," xlarge","white regular","pepperoni",1,26
+"315",12,2018,"Ontario"," cheddar"," medium ","white regular","tomatoes",1,26
+"316",12,2018,"new York"," Swiss","large","white regular"," pepper",1,26
+"317",12,2018,"California"," Swiss"," xlarge","whole wheat thin","tomatoes",1,29
+"318",12,2018,"Quebec","Mozzarella","large","whole wheat thin"," onions",1,26
+"319",12,2018,"Ontario"," Swiss"," medium ","white regular","tomatoes",1,26
+"320",12,2018,"new York"," cheddar"," xlarge","stuffed crust","tomatoes",1,26
+"321",12,2018,"Ontario"," Swiss","large","whole wheat thin","pepperoni",1,29
+"322",12,2018,"Quebec"," cheddar"," medium ","stuffed crust"," onions",2,52
+"323",12,2018,"California","Mozzarella"," medium ","stuffed crust"," onions",1,26
+"324",12,2018,"Washington"," cheddar","small","stuffed crust","pepperoni",1,19
+"325",12,2018,"Washington","Mozzarella","small","whole wheat thin","tomatoes",1,26
+"326",12,2018,"California"," cheddar","large","stuffed crust"," pepper",1,29
+"327",12,2018,"Washington","Mozzarella","personal","whole wheat thin","pepperoni",1,19
+"328",1,2019,"Ontario","Mozzarella","large","white regular"," onions",1,19
+"329",1,2019,"new York","Mozzarella"," medium ","whole wheat thin","pepperoni",1,26
+"330",1,2019,"Ontario"," cheddar"," medium ","whole wheat thin","pepperoni",1,29
+"331",1,2019,"new York","Mozzarella"," xlarge","white regular","pepperoni",1,26
+"332",1,2019,"Washington"," cheddar"," medium ","whole wheat thin","tomatoes",2,52
+"333",1,2019,"new York"," cheddar","small","white regular"," onions",1,19
+"334",1,2019,"Quebec","Mozzarella","personal","whole wheat thin"," pepper",1,29
+"335",1,2019,"Washington"," Swiss"," medium ","white regular","pepperoni",2,58
+"336",1,2019,"Ontario","Mozzarella","small","whole wheat thin","pepperoni",1,26
+"337",1,2019,"new York","Mozzarella"," xlarge","stuffed crust","tomatoes",1,19
+"338",1,2019,"new York"," cheddar","small","stuffed crust"," pepper",2,38
+"339",1,2019,"new York"," cheddar","large","whole wheat thin"," pepper",1,26
+"340",1,2019,"Ontario","Mozzarella"," medium ","whole wheat thin"," onions",1,26
+"341",1,2019,"new York","Mozzarella","small","stuffed crust"," pepper",1,26
+"342",1,2019,"California"," Swiss"," xlarge","whole wheat thin"," onions",2,52
+"343",1,2019,"California"," Swiss","personal","stuffed crust","pepperoni",1,26
+"344",1,2019,"California","Mozzarella"," medium ","white regular"," onions",1,29
+"345",1,2019,"Quebec"," cheddar"," xlarge","white regular"," pepper",2,52
+"346",1,2019,"new York"," cheddar"," xlarge","white regular","tomatoes",1,26
+"347",1,2019,"California","Mozzarella","large","white regular","pepperoni",1,19
+"348",1,2019,"California"," Swiss","personal","stuffed crust"," pepper",1,19
+"349",1,2019,"new York"," Swiss"," xlarge","stuffed crust"," pepper",1,26
+"350",1,2019,"new York"," cheddar","large","stuffed crust"," pepper",1,26
+"351",1,2019,"California","Mozzarella"," xlarge","whole wheat thin","tomatoes",2,58
+"352",1,2019,"California","Mozzarella","small","whole wheat thin","tomatoes",1,26
+"353",1,2019,"new York"," Swiss"," medium ","stuffed crust"," onions",1,19
+"354",1,2019,"Ontario","Mozzarella","large","stuffed crust"," onions",1,19
+"355",1,2019,"Washington"," Swiss"," xlarge","whole wheat thin","tomatoes",1,29
+"356",1,2019,"Ontario","Mozzarella","personal","whole wheat thin"," pepper",1,26
+"357",1,2019,"new York"," Swiss","small","stuffed crust"," onions",2,52
+"358",1,2019,"new York"," Swiss"," medium ","white regular"," pepper",2,58
+"359",1,2019,"California"," cheddar","large","whole wheat thin","pepperoni",1,26
+"360",1,2019,"Ontario"," cheddar","small","stuffed crust"," onions",1,26
+"361",1,2019,"Washington"," Swiss"," medium ","stuffed crust","pepperoni",2,52
+"362",2,2019,"new York"," cheddar","large","stuffed crust","tomatoes",1,26
+"363",2,2019,"new York"," cheddar"," medium ","white regular","pepperoni",1,29
+"364",2,2019,"Quebec","Mozzarella","large","whole wheat thin","tomatoes",1,26
+"365",2,2019,"new York","Mozzarella","large","whole wheat thin","pepperoni",2,52
+"366",2,2019,"Ontario"," cheddar"," xlarge","white regular","pepperoni",1,26
+"367",2,2019,"new York"," Swiss"," medium ","whole wheat thin"," onions",2,52
+"368",2,2019,"Quebec","Mozzarella","large","stuffed crust"," pepper",2,52
+"369",2,2019,"California"," Swiss"," medium ","stuffed crust"," pepper",1,26
+"370",2,2019,"Quebec"," cheddar","large","white regular","tomatoes",1,26
+"371",2,2019,"new York"," Swiss","personal","whole wheat thin"," pepper",2,52
+"372",2,2019,"California","Mozzarella"," medium ","white regular"," pepper",1,26
+"373",2,2019,"new York","Mozzarella"," xlarge","stuffed crust","pepperoni",1,29
+"374",2,2019,"California"," Swiss"," xlarge","stuffed crust","tomatoes",1,29
+"375",2,2019,"new York"," Swiss","large","whole wheat thin"," pepper",2,52
+"376",2,2019,"new York"," cheddar","small","whole wheat thin"," pepper",1,26
+"377",2,2019,"Washington"," cheddar","small","white regular"," pepper",1,26
+"378",2,2019,"Ontario"," Swiss"," medium ","stuffed crust","tomatoes",1,19
+"379",2,2019,"Quebec"," cheddar","large","white regular","tomatoes",1,26
+"380",2,2019,"new York"," Swiss"," xlarge","stuffed crust","pepperoni",1,19
+"381",2,2019,"new York","Mozzarella"," xlarge","stuffed crust"," pepper",2,38
+"382",2,2019,"Ontario"," cheddar","small","white regular"," pepper",1,26
+"383",2,2019,"Washington","Mozzarella","large","stuffed crust","pepperoni",1,26
+"384",2,2019,"Ontario"," cheddar","large","stuffed crust"," pepper",1,26
+"385",2,2019,"California"," Swiss"," medium ","stuffed crust"," onions",2,58
+"386",2,2019,"Ontario"," Swiss"," xlarge","whole wheat thin"," pepper",1,26
+"387",2,2019,"California"," Swiss"," medium ","whole wheat thin","pepperoni",1,26
+"388",2,2019,"new York","Mozzarella"," xlarge","whole wheat thin"," onions",1,26
+"389",2,2019,"California","Mozzarella","large","white regular","tomatoes",1,19
+"390",2,2019,"California"," cheddar","large","white regular"," pepper",2,58
+"391",2,2019,"Washington"," Swiss","large","white regular","pepperoni",1,26
+"392",2,2019,"Quebec"," cheddar","large","whole wheat thin","tomatoes",1,26
+"393",2,2019,"California","Mozzarella","large","whole wheat thin"," onions",2,52
+"394",2,2019,"new York"," Swiss","large","whole wheat thin"," pepper",1,26
+"395",2,2019,"new York"," cheddar","large","stuffed crust","pepperoni",1,29
+"396",2,2019,"California"," cheddar","small","whole wheat thin"," onions",1,29
+"397",3,2019,"Ontario"," cheddar","small","stuffed crust","pepperoni",2,58
+"398",3,2019,"new York","Mozzarella","personal","white regular"," onions",1,26
+"399",3,2019,"new York"," cheddar"," xlarge","whole wheat thin","tomatoes",1,19
+"400",3,2019,"California"," cheddar"," xlarge","white regular","pepperoni",1,26
+"401",3,2019,"Quebec"," cheddar"," medium ","stuffed crust","tomatoes",1,29
+"402",3,2019,"new York"," Swiss","large","whole wheat thin"," onions",2,52
+"403",3,2019,"California"," Swiss","personal","whole wheat thin"," pepper",2,52
+"404",3,2019,"California"," cheddar","large","stuffed crust"," pepper",1,29
+"405",3,2019,"new York"," cheddar","personal","whole wheat thin","pepperoni",1,29
+"406",3,2019,"California"," Swiss","large","whole wheat thin"," pepper",1,26
+"407",3,2019,"California"," Swiss"," xlarge","whole wheat thin"," onions",1,19
+"408",3,2019,"new York"," cheddar"," xlarge","white regular","pepperoni",1,26
+"409",3,2019,"California"," Swiss"," xlarge","white regular","pepperoni",1,26
+"410",3,2019,"Washington","Mozzarella","large","stuffed crust","tomatoes",1,26
+"411",3,2019,"California"," cheddar"," medium ","stuffed crust"," pepper",1,26
+"412",3,2019,"California","Mozzarella"," xlarge","whole wheat thin"," pepper",2,52
+"413",3,2019,"Quebec"," Swiss"," xlarge","stuffed crust","tomatoes",1,26
+"414",3,2019,"California","Mozzarella"," medium ","stuffed crust","tomatoes",1,19
+"415",3,2019,"Quebec"," cheddar","personal","whole wheat thin"," onions",1,26
+"416",3,2019,"new York"," Swiss","large","white regular","pepperoni",2,58
+"417",3,2019,"Quebec"," Swiss","small","stuffed crust"," pepper",1,26
+"418",3,2019,"Quebec"," cheddar"," xlarge","white regular","tomatoes",1,19
+"419",3,2019,"California"," cheddar","large","white regular"," onions",2,52
+"420",3,2019,"Ontario"," cheddar","large","whole wheat thin","pepperoni",1,19
+"421",3,2019,"California"," Swiss"," xlarge","whole wheat thin","tomatoes",1,26
+"422",3,2019,"Washington"," cheddar","small","stuffed crust"," onions",1,26
+"423",4,2019,"California","Mozzarella"," medium ","white regular"," onions",2,52
+"424",4,2019,"new York","Mozzarella","personal","whole wheat thin","tomatoes",2,58
+"425",4,2019,"Quebec","Mozzarella","large","white regular","pepperoni",1,29
+"426",4,2019,"Ontario"," Swiss"," medium ","white regular"," pepper",1,26
+"427",4,2019,"new York"," cheddar"," medium ","whole wheat thin","pepperoni",1,26
+"428",4,2019,"California"," Swiss"," medium ","white regular"," pepper",2,52
+"429",4,2019,"California","Mozzarella"," xlarge","white regular","tomatoes",1,26
+"430",4,2019,"Quebec","Mozzarella"," xlarge","white regular"," pepper",1,26
+"431",4,2019,"Quebec"," Swiss","small","white regular","pepperoni",2,52
+"432",4,2019,"Quebec"," cheddar","large","stuffed crust","pepperoni",1,26
+"433",4,2019,"Ontario"," cheddar"," medium ","whole wheat thin","tomatoes",1,26
+"434",4,2019,"new York","Mozzarella"," xlarge","white regular","tomatoes",1,29
+"435",4,2019,"Washington"," cheddar","large","stuffed crust","pepperoni",1,19
+"436",4,2019,"California"," Swiss"," xlarge","stuffed crust"," onions",2,52
+"437",4,2019,"California"," cheddar"," xlarge","whole wheat thin","tomatoes",1,26
+"438",4,2019,"new York"," Swiss"," medium ","stuffed crust","pepperoni",1,26
+"439",4,2019,"California"," Swiss","large","white regular"," onions",1,26
+"440",4,2019,"California"," cheddar","large","whole wheat thin"," pepper",1,29
+"441",4,2019,"California"," Swiss","large","white regular","tomatoes",1,29
+"442",4,2019,"Ontario"," cheddar","large","white regular"," pepper",2,58
+"443",4,2019,"new York","Mozzarella"," medium ","white regular"," onions",2,52
+"444",4,2019,"Quebec","Mozzarella"," xlarge","white regular"," pepper",1,19
+"445",4,2019,"new York"," cheddar","personal","whole wheat thin"," onions",1,19
+"446",4,2019,"Washington"," Swiss","small","stuffed crust","tomatoes",2,38
+"447",4,2019,"new York"," cheddar","large","white regular"," pepper",1,19
+"448",4,2019,"new York"," Swiss","personal","white regular","tomatoes",2,58
+"449",4,2019,"California","Mozzarella"," xlarge","white regular"," pepper",1,26
+"450",4,2019,"Washington"," cheddar","personal","stuffed crust"," pepper",2,52
+"451",4,2019,"new York","Mozzarella","personal","stuffed crust","tomatoes",1,19
+"452",4,2019,"Ontario"," Swiss"," medium ","stuffed crust"," onions",1,26
+"453",4,2019,"Washington"," cheddar","large","stuffed crust","pepperoni",1,29
+"454",4,2019,"new York"," Swiss","large","white regular"," onions",1,26
+"455",4,2019,"Washington"," Swiss","personal","stuffed crust"," onions",1,29
+"456",4,2019,"Ontario","Mozzarella"," medium ","stuffed crust"," onions",2,58
+"457",4,2019,"Washington"," Swiss","small","white regular"," pepper",1,19
+"458",5,2019,"California"," cheddar","large","whole wheat thin","pepperoni",2,58
+"459",5,2019,"new York","Mozzarella"," medium ","white regular","tomatoes",2,52
+"460",5,2019,"Washington"," cheddar","large","whole wheat thin","tomatoes",1,26
+"461",5,2019,"Washington"," cheddar","large","whole wheat thin","tomatoes",2,52
+"462",5,2019,"Washington"," Swiss"," medium ","stuffed crust"," pepper",2,58
+"463",5,2019,"California","Mozzarella"," xlarge","whole wheat thin"," pepper",2,38
+"464",5,2019,"California"," Swiss"," medium ","white regular","pepperoni",1,26
+"465",5,2019,"new York","Mozzarella"," medium ","white regular","tomatoes",1,26
+"466",5,2019,"Ontario"," cheddar"," xlarge","stuffed crust"," pepper",1,26
+"467",5,2019,"Quebec"," cheddar","personal","stuffed crust","pepperoni",2,52
+"468",5,2019,"Ontario","Mozzarella","personal","stuffed crust"," onions",1,26
+"469",5,2019,"California"," cheddar"," medium ","stuffed crust","tomatoes",1,19
+"470",5,2019,"new York"," cheddar","large","whole wheat thin"," pepper",1,26
+"471",5,2019,"California"," cheddar"," medium ","whole wheat thin"," onions",1,26
+"472",5,2019,"Quebec"," cheddar"," xlarge","white regular","pepperoni",1,26
+"473",5,2019,"new York"," cheddar"," xlarge","whole wheat thin","tomatoes",1,29
+"474",5,2019,"new York","Mozzarella","small","stuffed crust","pepperoni",1,26
+"475",5,2019,"Quebec"," Swiss"," medium ","stuffed crust"," onions",1,19
+"476",5,2019,"California"," Swiss"," xlarge","stuffed crust","tomatoes",1,26
+"477",5,2019,"Quebec"," Swiss","large","whole wheat thin","tomatoes",1,19
+"478",5,2019,"new York","Mozzarella"," xlarge","stuffed crust"," onions",1,29
+"479",5,2019,"Ontario"," cheddar"," medium ","whole wheat thin","pepperoni",1,29
+"480",5,2019,"Washington"," Swiss"," medium ","white regular"," onions",1,26
+"481",5,2019,"California"," cheddar","personal","whole wheat thin","tomatoes",1,26
+"482",5,2019,"California"," cheddar"," xlarge","stuffed crust"," onions",1,19
+"483",5,2019,"Quebec"," Swiss","large","white regular"," pepper",2,38
+"484",5,2019,"Ontario"," Swiss","small","stuffed crust"," pepper",1,29
+"485",5,2019,"new York","Mozzarella","large","stuffed crust"," onions",1,26
+"486",5,2019,"new York"," cheddar","large","stuffed crust","pepperoni",1,26
+"487",5,2019,"California"," Swiss","small","stuffed crust","tomatoes",1,26
+"488",5,2019,"Ontario"," cheddar"," medium ","stuffed crust"," onions",1,26
+"489",5,2019,"new York"," Swiss","large","whole wheat thin"," onions",1,26
+"490",5,2019,"Ontario"," cheddar"," medium ","white regular","tomatoes",2,58
+"491",5,2019,"Ontario","Mozzarella","large","white regular","tomatoes",1,29
+"492",5,2019,"California"," cheddar"," medium ","stuffed crust","pepperoni",1,26
+"493",5,2019,"new York"," cheddar"," xlarge","white regular","pepperoni",1,26
+"494",6,2019,"California"," cheddar","small","stuffed crust","tomatoes",1,26
+"495",6,2019,"California","Mozzarella"," xlarge","whole wheat thin","tomatoes",1,29
+"496",6,2019,"Ontario"," Swiss","large","white regular"," pepper",1,29
+"497",6,2019,"new York"," cheddar","large","white regular","tomatoes",2,52
+"498",6,2019,"new York"," Swiss","large","whole wheat thin","tomatoes",2,52
+"499",6,2019,"Ontario"," Swiss"," medium ","white regular"," onions",1,26
+"500",6,2019,"Washington"," Swiss","personal","whole wheat thin"," pepper",1,26
+"501",6,2019,"California"," cheddar"," xlarge","white regular"," onions",1,19
+"502",6,2019,"Ontario"," Swiss"," xlarge","whole wheat thin","tomatoes",1,26
+"503",6,2019,"Washington"," cheddar","large","whole wheat thin","pepperoni",1,19
+"504",6,2019,"Washington"," cheddar","small","white regular","tomatoes",1,29
+"505",6,2019,"new York","Mozzarella"," medium ","stuffed crust"," pepper",1,26
+"506",6,2019,"California"," Swiss"," medium ","white regular"," onions",2,58
+"507",6,2019,"California"," Swiss","personal","stuffed crust","pepperoni",1,26
+"508",6,2019,"California"," Swiss","large","whole wheat thin"," onions",1,19
+"509",6,2019,"Quebec","Mozzarella","large","white regular","tomatoes",1,26
+"510",6,2019,"Quebec","Mozzarella"," xlarge","white regular","pepperoni",1,26
+"511",6,2019,"new York"," Swiss"," xlarge","stuffed crust","tomatoes",1,29
+"512",6,2019,"California","Mozzarella","large","white regular","tomatoes",2,52
+"513",6,2019,"Ontario"," cheddar","large","whole wheat thin","pepperoni",2,38
+"514",6,2019,"California"," Swiss"," medium ","whole wheat thin"," pepper",2,52
+"515",6,2019,"California","Mozzarella","large","white regular"," onions",1,29
+"516",6,2019,"Washington","Mozzarella"," medium ","white regular","pepperoni",1,26
+"517",6,2019,"Quebec"," cheddar","large","white regular"," onions",1,29
+"518",6,2019,"California"," Swiss","large","whole wheat thin","pepperoni",1,26
+"519",6,2019,"California"," cheddar","large","white regular","tomatoes",1,19
+"520",6,2019,"Washington"," cheddar"," medium ","stuffed crust"," onions",2,52
+"521",6,2019,"new York","Mozzarella","small","stuffed crust","pepperoni",1,26
+"522",6,2019,"new York"," cheddar","large","stuffed crust"," pepper",2,52
+"523",6,2019,"Washington"," Swiss"," xlarge","stuffed crust"," pepper",2,38
+"524",6,2019,"California","Mozzarella","personal","whole wheat thin","tomatoes",1,26
+"525",6,2019,"Washington"," Swiss"," xlarge","stuffed crust","pepperoni",1,19
+"526",6,2019,"California","Mozzarella"," xlarge","whole wheat thin","pepperoni",1,26
+"527",6,2019,"California"," cheddar","large","white regular","pepperoni",1,26
+"528",6,2019,"California","Mozzarella","personal","stuffed crust","pepperoni",1,26
+"529",7,2019,"new York","Mozzarella","small","white regular"," pepper",1,19
+"530",7,2019,"California"," Swiss","small","whole wheat thin","pepperoni",1,19
+"531",7,2019,"Ontario","Mozzarella"," medium ","whole wheat thin","pepperoni",1,19
+"532",7,2019,"Quebec"," Swiss","large","stuffed crust"," onions",1,29
+"533",7,2019,"Quebec"," Swiss"," medium ","whole wheat thin"," pepper",1,19
+"534",7,2019,"California"," cheddar","large","whole wheat thin"," onions",1,19
+"535",7,2019,"Quebec"," cheddar"," medium ","white regular","tomatoes",1,26
+"536",7,2019,"Washington"," Swiss","large","whole wheat thin","pepperoni",1,29
+"537",7,2019,"Washington"," cheddar","large","whole wheat thin","tomatoes",1,19
+"538",7,2019,"Ontario","Mozzarella","large","whole wheat thin","tomatoes",1,29
+"539",7,2019,"new York"," Swiss"," medium ","whole wheat thin"," onions",2,52
+"540",7,2019,"California"," cheddar","large","white regular","pepperoni",1,29
+"541",7,2019,"California"," Swiss"," medium ","whole wheat thin"," onions",2,38
+"542",7,2019,"Quebec"," Swiss","large","white regular","tomatoes",2,52
+"543",7,2019,"Washington","Mozzarella","personal","whole wheat thin","pepperoni",2,52
+"544",7,2019,"new York"," Swiss"," medium ","stuffed crust"," pepper",1,26
+"545",7,2019,"California"," Swiss"," xlarge","stuffed crust","pepperoni",2,52
+"546",7,2019,"Ontario"," Swiss","personal","stuffed crust","tomatoes",1,29
+"547",7,2019,"new York"," Swiss","large","whole wheat thin"," pepper",2,38
+"548",7,2019,"Ontario","Mozzarella","large","whole wheat thin","tomatoes",1,19
+"549",7,2019,"California","Mozzarella","small","white regular"," onions",1,26
+"550",7,2019,"California","Mozzarella","personal","white regular","tomatoes",2,52
+"551",7,2019,"Quebec","Mozzarella"," xlarge","stuffed crust"," pepper",1,26
+"552",7,2019,"new York"," Swiss"," xlarge","stuffed crust","tomatoes",1,29
+"553",7,2019,"new York"," cheddar","personal","whole wheat thin","tomatoes",1,26
+"554",7,2019,"new York","Mozzarella"," medium ","stuffed crust"," pepper",2,52
+"555",7,2019,"California"," Swiss"," medium ","stuffed crust","pepperoni",1,26
+"556",7,2019,"Washington"," cheddar"," medium ","whole wheat thin"," pepper",1,26
+"557",7,2019,"California","Mozzarella","small","whole wheat thin","tomatoes",1,26
+"558",7,2019,"new York"," cheddar"," medium ","whole wheat thin","pepperoni",2,58
+"559",7,2019,"California"," cheddar","personal","stuffed crust","pepperoni",1,26
+"560",7,2019,"Washington"," Swiss"," medium ","white regular"," pepper",1,29
+"561",7,2019,"Quebec"," Swiss","large","white regular","tomatoes",1,26
+"562",8,2019,"Ontario","Mozzarella"," medium ","stuffed crust"," pepper",1,26
+"563",8,2019,"new York","Mozzarella"," xlarge","whole wheat thin","tomatoes",1,26
+"564",8,2019,"new York"," cheddar"," medium ","whole wheat thin"," pepper",1,26
+"565",8,2019,"new York"," Swiss","large","stuffed crust","pepperoni",2,52
+"566",8,2019,"Quebec","Mozzarella","large","whole wheat thin"," pepper",1,29
+"567",8,2019,"new York"," Swiss","small","stuffed crust"," onions",1,19
+"568",8,2019,"Ontario","Mozzarella"," medium ","stuffed crust","pepperoni",1,26
+"569",8,2019,"new York"," Swiss"," medium ","stuffed crust"," onions",1,29
+"570",8,2019,"new York"," cheddar"," medium ","whole wheat thin","pepperoni",2,52
+"571",8,2019,"Washington"," Swiss"," medium ","whole wheat thin","pepperoni",1,26
+"572",8,2019,"Quebec"," cheddar","large","whole wheat thin"," pepper",1,26
+"573",8,2019,"Quebec"," cheddar"," medium ","white regular"," onions",1,26
+"574",8,2019,"new York"," cheddar"," xlarge","white regular","tomatoes",1,26
+"575",8,2019,"California"," Swiss","personal","stuffed crust"," onions",1,26
+"576",8,2019,"Ontario"," cheddar","small","stuffed crust","pepperoni",1,26
+"577",8,2019,"Washington"," Swiss"," medium ","stuffed crust","pepperoni",1,29
+"578",8,2019,"Quebec","Mozzarella"," medium ","stuffed crust"," onions",1,26
+"579",8,2019,"Quebec","Mozzarella","large","stuffed crust","tomatoes",1,26
+"580",8,2019,"Washington"," Swiss"," medium ","whole wheat thin"," pepper",1,19
+"581",8,2019,"Washington","Mozzarella","personal","stuffed crust","pepperoni",1,26
+"582",8,2019,"California"," Swiss"," xlarge","white regular"," pepper",1,26
+"583",9,2019,"Ontario"," cheddar","small","stuffed crust"," onions",1,19
+"584",9,2019,"California","Mozzarella","small","stuffed crust"," onions",1,26
+"585",9,2019,"new York","Mozzarella","small","whole wheat thin"," pepper",1,26
+"586",9,2019,"new York"," cheddar"," xlarge","whole wheat thin"," pepper",1,29
+"587",9,2019,"California"," Swiss","personal","white regular"," pepper",1,19
+"588",9,2019,"Washington"," Swiss"," xlarge","stuffed crust"," pepper",1,26
+"589",9,2019,"California"," cheddar","large","stuffed crust","tomatoes",1,19
+"590",9,2019,"new York","Mozzarella","large","white regular","pepperoni",1,19
+"591",9,2019,"Ontario","Mozzarella","large","whole wheat thin","tomatoes",1,26
+"592",9,2019,"California","Mozzarella"," xlarge","whole wheat thin","tomatoes",2,52
+"593",9,2019,"new York","Mozzarella"," xlarge","whole wheat thin"," pepper",2,58
+"594",9,2019,"Washington"," Swiss"," xlarge","stuffed crust"," onions",1,19
+"595",9,2019,"California"," Swiss"," xlarge","whole wheat thin"," pepper",1,26
+"596",9,2019,"new York"," cheddar","large","stuffed crust","pepperoni",2,58
+"597",9,2019,"Ontario"," Swiss"," xlarge","stuffed crust","tomatoes",1,26
+"598",9,2019,"Quebec"," Swiss"," xlarge","stuffed crust","pepperoni",1,19
+"599",9,2019,"Ontario","Mozzarella","personal","whole wheat thin","pepperoni",1,26
+"600",9,2019,"Ontario"," Swiss"," medium ","stuffed crust"," onions",1,19
+"601",9,2019,"new York"," cheddar"," medium ","whole wheat thin"," onions",2,52
+"602",9,2019,"Ontario"," cheddar","large","white regular"," onions",1,26
+"603",9,2019,"new York","Mozzarella","large","stuffed crust","tomatoes",1,26
+"604",9,2019,"California"," cheddar"," medium ","white regular"," onions",1,26
+"605",9,2019,"new York","Mozzarella"," medium ","stuffed crust","pepperoni",2,52
+"606",9,2019,"new York","Mozzarella"," medium ","stuffed crust","pepperoni",1,19
+"607",9,2019,"California","Mozzarella"," xlarge","white regular","pepperoni",1,26
+"608",9,2019,"Quebec"," cheddar","large","whole wheat thin","pepperoni",1,29
+"609",9,2019,"Washington"," Swiss"," medium ","white regular","tomatoes",1,26
+"610",10,2019,"new York"," Swiss","large","whole wheat thin"," onions",1,29
+"611",10,2019,"Quebec"," Swiss","personal","stuffed crust","tomatoes",1,26
+"612",10,2019,"Washington"," cheddar"," xlarge","stuffed crust"," pepper",1,26
+"613",10,2019,"Ontario"," cheddar"," xlarge","white regular"," pepper",1,19
+"614",10,2019,"new York"," Swiss"," medium ","stuffed crust"," onions",1,26
+"615",10,2019,"Ontario"," cheddar","large","whole wheat thin"," onions",1,19
+"616",10,2019,"new York","Mozzarella","large","whole wheat thin"," pepper",2,38
+"617",10,2019,"Quebec"," cheddar"," medium ","whole wheat thin"," onions",1,26
+"618",10,2019,"new York"," cheddar"," xlarge","stuffed crust","pepperoni",1,19
+"619",10,2019,"Washington"," cheddar"," medium ","stuffed crust","tomatoes",1,19
+"620",10,2019,"new York","Mozzarella","large","white regular"," pepper",2,38
+"621",10,2019,"Ontario"," cheddar"," medium ","whole wheat thin"," onions",1,19
+"622",10,2019,"California"," cheddar","large","stuffed crust"," onions",1,26
+"623",10,2019,"Washington","Mozzarella","large","whole wheat thin","pepperoni",1,19
+"624",10,2019,"California"," Swiss","large","stuffed crust","tomatoes",1,29
+"625",10,2019,"Washington"," cheddar"," xlarge","white regular","pepperoni",2,38
+"626",10,2019,"Washington","Mozzarella"," xlarge","whole wheat thin"," pepper",1,19
+"627",10,2019,"Quebec"," cheddar","personal","stuffed crust"," onions",2,52
+"628",10,2019,"California"," cheddar","large","whole wheat thin","pepperoni",1,26
+"629",10,2019,"California"," cheddar","large","whole wheat thin","tomatoes",1,19
+"630",10,2019,"Ontario"," Swiss"," medium ","stuffed crust"," pepper",1,26
+"631",10,2019,"new York","Mozzarella"," medium ","white regular","pepperoni",1,26
+"632",10,2019,"Quebec","Mozzarella"," medium ","white regular"," pepper",1,26
+"633",10,2019,"Ontario","Mozzarella","large","whole wheat thin","pepperoni",1,26
+"634",11,2019,"Ontario"," Swiss"," xlarge","white regular","tomatoes",2,38
+"635",11,2019,"Ontario"," cheddar","small","whole wheat thin"," pepper",2,52
+"636",11,2019,"California","Mozzarella"," medium ","stuffed crust"," onions",1,26
+"637",11,2019,"Quebec"," cheddar"," medium ","stuffed crust","pepperoni",1,26
+"638",11,2019,"new York"," cheddar"," medium ","stuffed crust"," onions",1,26
+"639",11,2019,"California"," Swiss"," xlarge","whole wheat thin","pepperoni",1,29
+"640",11,2019,"Washington"," Swiss"," medium ","whole wheat thin","tomatoes",1,26
+"641",11,2019,"new York","Mozzarella","large","whole wheat thin"," onions",2,52
+"642",11,2019,"California"," Swiss","small","white regular"," pepper",1,19
+"643",11,2019,"California"," cheddar","large","white regular","tomatoes",1,26
+"644",11,2019,"new York"," cheddar"," xlarge","whole wheat thin"," pepper",1,26
+"645",11,2019,"California"," Swiss"," xlarge","stuffed crust","pepperoni",1,26
+"646",11,2019,"new York","Mozzarella"," xlarge","stuffed crust","pepperoni",1,29
+"647",11,2019,"new York","Mozzarella","large","whole wheat thin","tomatoes",2,52
+"648",11,2019,"Washington"," Swiss"," xlarge","white regular","tomatoes",1,26
+"649",11,2019,"new York"," Swiss"," medium ","white regular"," onions",1,26
+"650",11,2019,"new York"," Swiss","large","white regular"," pepper",2,52
+"651",11,2019,"Ontario"," cheddar","personal","whole wheat thin","tomatoes",1,26
+"652",11,2019,"Quebec"," Swiss"," medium ","whole wheat thin","pepperoni",1,29
+"653",11,2019,"Washington","Mozzarella","large","whole wheat thin","pepperoni",1,26
+"654",11,2019,"California"," cheddar","large","whole wheat thin","pepperoni",1,26
+"655",11,2019,"California","Mozzarella","personal","white regular"," pepper",2,52
+"656",11,2019,"California"," Swiss"," xlarge","whole wheat thin"," pepper",1,29
+"657",11,2019,"California","Mozzarella"," medium ","whole wheat thin"," pepper",1,26
+"658",11,2019,"Quebec"," cheddar","personal","white regular","pepperoni",1,19
+"659",11,2019,"new York"," cheddar","large","white regular","pepperoni",1,19
+"660",11,2019,"Ontario"," Swiss","small","stuffed crust"," pepper",2,58
+"661",11,2019,"new York"," cheddar"," medium ","white regular"," pepper",1,26
+"662",11,2019,"California"," Swiss"," xlarge","whole wheat thin"," pepper",2,38
+"663",11,2019,"California"," cheddar"," medium ","stuffed crust"," pepper",1,29
+"664",11,2019,"California","Mozzarella","small","stuffed crust"," onions",1,26
+"665",12,2019,"Quebec"," Swiss","personal","whole wheat thin","tomatoes",1,26
+"666",12,2019,"Washington","Mozzarella"," xlarge","whole wheat thin"," pepper",2,38
+"667",12,2019,"Ontario"," cheddar"," medium ","whole wheat thin"," pepper",2,38
+"668",12,2019,"Washington"," Swiss"," xlarge","stuffed crust"," pepper",2,52
+"669",12,2019,"Ontario"," cheddar"," medium ","white regular","pepperoni",1,26
+"670",12,2019,"new York"," Swiss","large","whole wheat thin","pepperoni",2,58
+"671",12,2019,"Washington"," Swiss","personal","whole wheat thin"," onions",1,29
+"672",12,2019,"Washington","Mozzarella"," medium ","whole wheat thin","pepperoni",1,26
+"673",12,2019,"California","Mozzarella"," medium ","white regular","pepperoni",1,26
+"674",12,2019,"Ontario","Mozzarella","large","white regular"," onions",2,38
+"675",12,2019,"California"," Swiss"," xlarge","stuffed crust"," onions",2,52
+"676",12,2019,"Washington"," Swiss","small","white regular","pepperoni",1,19
+"677",12,2019,"Washington"," cheddar","small","white regular","pepperoni",2,52
+"678",12,2019,"new York","Mozzarella","small","stuffed crust"," onions",2,52
+"679",12,2019,"new York"," Swiss","large","white regular","pepperoni",2,58
+"680",12,2019,"California"," Swiss","personal","whole wheat thin","pepperoni",1,26
+"681",12,2019,"new York"," cheddar","large","white regular","pepperoni",2,38
+"682",12,2019,"Washington"," cheddar","personal","whole wheat thin","pepperoni",1,29
+"683",12,2019,"Washington","Mozzarella"," medium ","white regular"," onions",2,52
+"684",12,2019,"Ontario"," Swiss","small","whole wheat thin"," onions",2,38
+"685",12,2019,"Washington"," cheddar"," medium ","whole wheat thin","tomatoes",1,29
+"686",12,2019,"California"," cheddar","personal","whole wheat thin","tomatoes",1,19
+"687",12,2019,"California"," cheddar"," medium ","whole wheat thin"," pepper",1,26
+"688",12,2019,"California"," cheddar"," xlarge","white regular","tomatoes",1,19
+"689",12,2019,"new York","Mozzarella","large","white regular"," pepper",2,58
+"690",12,2019,"new York"," cheddar"," xlarge","stuffed crust"," pepper",1,26
+"691",12,2019,"California","Mozzarella","large","stuffed crust","tomatoes",2,38
+"692",12,2019,"new York"," Swiss"," xlarge","white regular","pepperoni",2,52
+"693",12,2019,"new York"," Swiss","large","stuffed crust","pepperoni",2,58
+"694",12,2019,"California","Mozzarella"," xlarge","white regular"," onions",2,52
+"695",12,2019,"Quebec"," cheddar"," medium ","white regular"," pepper",1,19
+"696",12,2019,"California"," Swiss"," xlarge","white regular"," pepper",1,26
+"697",12,2019,"Quebec","Mozzarella"," medium ","white regular","tomatoes",1,19
+"698",12,2019,"new York"," Swiss"," medium ","white regular"," onions",1,26
+"699",12,2019,"California"," Swiss"," xlarge","whole wheat thin"," onions",1,29
+"700",12,2019,"Washington"," cheddar"," xlarge","white regular"," onions",1,26
